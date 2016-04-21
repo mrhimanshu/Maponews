@@ -1,5 +1,5 @@
-# MapoNews
-========
+MapoNews
+=========
 
 Provide news based on location.
 
